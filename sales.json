@@ -78,5 +78,1013 @@
         "customer_name": "James Garcia",
         "id": "468640c7-3e8a-47fd-bc0b-9efedb3d7642",
         "date": "2025-07-22 03:20:23"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 431.04,
+        "customer_name": "Patricia Taylor",
+        "date": "2025-08-01 04:04:58",
+        "id": "891b8bde-1e94-4617-9cc0-356c7f6bca36"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 431.04,
+        "customer_name": "Patricia Taylor",
+        "date": "2025-08-01 04:05:12",
+        "id": "6017a17d-2eb9-44ba-b8b3-54577a621d35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 431.04,
+        "customer_name": "Patricia Taylor",
+        "date": "2025-08-01 04:05:31",
+        "id": "e5f1c681-0d7a-4732-aa9d-a2e1d3e8bc35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 431.04,
+        "customer_name": "Patricia Taylor",
+        "date": "2025-08-01 20:57:16",
+        "id": "39672579-060f-4810-ae82-ca7ffac0f0b6"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 431.04,
+        "customer_name": "Patricia Taylor",
+        "date": "2025-08-01 20:57:16",
+        "id": "1dac418a-a1d5-4e67-9fab-11545f9a7a58"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 431.04,
+        "customer_name": "Patricia Taylor",
+        "date": "2025-08-01 20:57:16",
+        "id": "287011b1-73f1-4694-822b-6a0cce5fcbfd"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 431.04,
+        "customer_name": "Patricia Taylor",
+        "date": "2025-08-01 20:57:16",
+        "id": "8af4d047-5bc3-446c-ac7c-7ff6feac6297"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 431.04,
+        "customer_name": "Patricia Taylor",
+        "date": "2025-08-01 20:57:16",
+        "id": "b44d2677-760d-4054-b7d2-b38ae8e84dae"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 5,
+        "price": 699.03,
+        "customer_name": "Michael Martinez",
+        "id": "a6809128-8bee-4281-b3a0-2bbd4507558c",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 127.77,
+        "customer_name": "Patricia Brown",
+        "id": "9001080e-39ac-46af-abec-c881b2b23c45",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 5,
+        "price": 255.92,
+        "customer_name": "Patricia Brown",
+        "id": "7b515824-9d9d-4cd7-8534-27c477c116f9",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 2,
+        "price": 666.24,
+        "customer_name": "Robert Martinez",
+        "id": "55737ee7-9226-482e-974b-0a25663e0c0a",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 230.7,
+        "customer_name": "Michael Thomas",
+        "id": "0e851a33-ba97-4352-8251-b933d2c23f15",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 4,
+        "price": 759.59,
+        "customer_name": "Richard White",
+        "id": "33efa26f-7d9f-4235-b896-89674880daa5",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 1,
+        "price": 654.65,
+        "customer_name": "David Davis",
+        "id": "eda983a0-1500-4767-b7c0-9f59a3a2d06e",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 90.45,
+        "customer_name": "John Taylor",
+        "id": "bb60a749-9e02-4344-aad7-c6626c7106ea",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 2,
+        "price": 808.5,
+        "customer_name": "Patricia Martin",
+        "id": "b7be4540-78d5-4214-95fa-daf25a115e1b",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 2,
+        "price": 590.0,
+        "customer_name": "Elizabeth Garcia",
+        "id": "96f4089e-9cd6-4575-a567-180b5a4ab49f",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 1,
+        "price": 194.68,
+        "customer_name": "Charles Garcia",
+        "id": "45a59f30-3428-4113-994b-47970222ae44",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 5,
+        "price": 361.85,
+        "customer_name": "Charles Smith",
+        "id": "8b782cc7-787a-4709-9c93-62517df9ad32",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 786.3,
+        "customer_name": "Charles Harris",
+        "id": "65e6467d-d1b8-4a4f-a69b-9622541df325",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 5,
+        "price": 229.65,
+        "customer_name": "Elizabeth Jones",
+        "id": "8f0de87c-c6b7-40d6-80c6-9c96bd914ce9",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 2,
+        "price": 335.51,
+        "customer_name": "Robert Smith",
+        "id": "f4669f84-a543-4dc3-a2c8-89919a6213f3",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 5,
+        "price": 683.65,
+        "customer_name": "Mary Miller",
+        "id": "2d9bbf9d-d64a-4a0c-ac50-cefb9cc16177",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 4,
+        "price": 578.78,
+        "customer_name": "Charles Williams",
+        "id": "fa9c3031-7397-4b5e-a691-8d2a1b2782f8",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 2,
+        "price": 201.69,
+        "customer_name": "Sarah Smith",
+        "id": "258a2654-9bd7-4009-be1a-8acdc328e1c7",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 4,
+        "price": 237.96,
+        "customer_name": "William Anderson",
+        "id": "8ced6886-0cc0-4717-8351-3b8c6438054d",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 1,
+        "price": 899.09,
+        "customer_name": "James Thompson",
+        "id": "0cb90390-2800-46a9-8cd9-71e73683957e",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 1,
+        "price": 630.46,
+        "customer_name": "John Harris",
+        "id": "0b69a52a-e09b-46db-93b6-02dbd4213769",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 2,
+        "price": 318.73,
+        "customer_name": "Michael Moore",
+        "id": "3cc1ec51-797a-4c3b-b5b2-379a3f912318",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 1,
+        "price": 809.08,
+        "customer_name": "Patricia White",
+        "id": "4145c862-25ca-437f-9d83-98f60aebc6dc",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 2,
+        "price": 801.94,
+        "customer_name": "William Harris",
+        "id": "7bee1a21-5f24-44c8-a20c-beed15a8cdd4",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 4,
+        "price": 474.13,
+        "customer_name": "Sarah Davis",
+        "id": "8e3276cd-f4a0-4af9-b12f-9788d280c8e7",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 1,
+        "price": 131.24,
+        "customer_name": "Susan Martinez",
+        "id": "63c7740b-40a0-4728-b83b-a66f9f4aa2dd",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 2,
+        "price": 318.33,
+        "customer_name": "David Moore",
+        "id": "29a9d655-2b9e-46dd-9081-5b4805f633fb",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 1,
+        "price": 213.8,
+        "customer_name": "Linda Garcia",
+        "id": "241397a8-f947-4491-8909-76a9c3901bb7",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 104.86,
+        "customer_name": "Elizabeth Anderson",
+        "id": "290b52f9-5bd9-4037-9fb9-e1813b56f651",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 1,
+        "price": 733.63,
+        "customer_name": "Charles Martinez",
+        "id": "018b4454-4ada-439c-8b10-28dbf4dc9d89",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 3,
+        "price": 554.19,
+        "customer_name": "James Jackson",
+        "id": "18064b38-e8db-478d-bee5-0228302439ba",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 4,
+        "price": 218.21,
+        "customer_name": "Jennifer Garcia",
+        "id": "b04690ef-476b-4ad2-84e0-f509f1149c9c",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 1,
+        "price": 461.51,
+        "customer_name": "Barbara Garcia",
+        "id": "6e447bdc-4cdf-4eba-9ca1-6141e27b16b8",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 1,
+        "price": 504.82,
+        "customer_name": "Jennifer Wilson",
+        "id": "cee33a22-7614-4143-89f6-a2a4db6aea55",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 1,
+        "price": 306.56,
+        "customer_name": "Thomas Thomas",
+        "id": "45bf90b1-ab37-46ee-a4f0-fc4d0bc10166",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 3,
+        "price": 406.64,
+        "customer_name": "Charles Jones",
+        "id": "7863e501-57c3-47ce-9255-8f83da7ab8ec",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 1,
+        "price": 203.43,
+        "customer_name": "Barbara Harris",
+        "id": "fe4ce692-dddf-495e-b391-b4e7bc0aaacf",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 1,
+        "price": 290.85,
+        "customer_name": "Patricia Thompson",
+        "id": "a4f1160d-3f7a-485b-b414-ca715ad785cf",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 1,
+        "price": 861.6,
+        "customer_name": "James Moore",
+        "id": "a14a1bf6-0ced-459a-96c8-9712e89669d4",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 4,
+        "price": 725.5,
+        "customer_name": "Richard Thomas",
+        "id": "c7f9cc50-239e-4c71-af5b-7038b9794223",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 5,
+        "price": 102.28,
+        "customer_name": "Susan Martinez",
+        "id": "46aa346e-cf22-4313-a4eb-c022c58a39b0",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 5,
+        "price": 570.82,
+        "customer_name": "Linda Jackson",
+        "id": "cff8273c-5316-468e-a9a9-60ab03cdcf4b",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 4,
+        "price": 383.45,
+        "customer_name": "Michael Moore",
+        "id": "72bc8115-5286-4346-9bcb-406acabf6dd4",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 1,
+        "price": 352.3,
+        "customer_name": "Elizabeth Williams",
+        "id": "b74b6ca2-5a04-4ae1-81eb-0968371ba691",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 2,
+        "price": 189.71,
+        "customer_name": "John Brown",
+        "id": "a4636705-fdc2-4dec-b079-6cfa1dc1d142",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 5,
+        "price": 835.59,
+        "customer_name": "John Harris",
+        "id": "d9bb9ca7-1f76-4b74-99d7-73723fa1b0ff",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 5,
+        "price": 362.47,
+        "customer_name": "Richard Jackson",
+        "id": "e295b8c3-d124-400c-8c81-138bef51f9d5",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 1,
+        "price": 400.06,
+        "customer_name": "Michael Wilson",
+        "id": "731449b8-9b0d-498e-9e71-516a2c244b5b",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 4,
+        "price": 435.02,
+        "customer_name": "Thomas Miller",
+        "id": "d6ac89ea-0d6d-4971-b3c2-8b0ab5728693",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 5,
+        "price": 50.83,
+        "customer_name": "Mary Miller",
+        "id": "419c48f5-8af8-4c40-b902-f4278eb04ba5",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 5,
+        "price": 724.02,
+        "customer_name": "Patricia Clark",
+        "id": "285a57a3-0bf8-4f64-bf9c-cd183607d722",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 2,
+        "price": 253.62,
+        "customer_name": "John Garcia",
+        "id": "c2bcf3b8-74c3-4825-9dd8-d814fde020a5",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 4,
+        "price": 798.49,
+        "customer_name": "Linda Williams",
+        "id": "e3ac2480-3218-46e3-ba92-560403363bef",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 4,
+        "price": 739.29,
+        "customer_name": "Mary Smith",
+        "id": "a04150fc-5dd8-4292-a1ee-d061f4f78e32",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 5,
+        "price": 221.82,
+        "customer_name": "Joseph Smith",
+        "id": "b68866b8-6f80-4560-9a30-18ca43702633",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 2,
+        "price": 529.64,
+        "customer_name": "David Brown",
+        "id": "af176951-ca70-49e1-ac05-954127b5520f",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 5,
+        "price": 734.42,
+        "customer_name": "Sarah Martinez",
+        "id": "3250c4a4-b64b-4b22-8618-5380237ccdd0",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 1,
+        "price": 85.75,
+        "customer_name": "Patricia Thompson",
+        "id": "1efccfef-0c66-4788-9430-caf2a99e9263",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 825.3,
+        "customer_name": "Robert Thomas",
+        "id": "9982e0e2-2656-4dc2-93b9-7d8d085f926f",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 3,
+        "price": 578.34,
+        "customer_name": "Richard Clark",
+        "id": "14f12988-959f-4d22-bc25-90f5fc2cc5fb",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 1,
+        "price": 640.87,
+        "customer_name": "James Harris",
+        "id": "f533fbc5-9020-46c9-b839-d3cb3b21822f",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 4,
+        "price": 458.59,
+        "customer_name": "Charles Anderson",
+        "id": "18b015aa-8f3c-409e-98aa-61d30afc4c85",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 2,
+        "price": 836.37,
+        "customer_name": "Michael Thompson",
+        "id": "3a874fe3-370c-49d9-8de8-5b0afb39f99c",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 838.2,
+        "customer_name": "Barbara Martinez",
+        "id": "1683656e-b15a-4fb2-8d7b-d64e31e2eeba",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 3,
+        "price": 532.27,
+        "customer_name": "Mary Jones",
+        "id": "0d4d72f3-ace9-4b29-9dde-f80c44f00cbf",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 2,
+        "price": 419.14,
+        "customer_name": "Thomas Clark",
+        "id": "a656e9a8-0d37-490a-882d-e4df9d3837c5",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 2,
+        "price": 541.83,
+        "customer_name": "Jessica White",
+        "id": "ff5ca24f-14f2-44e6-a43f-c328768d5d10",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Monitor",
+        "quantity": 1,
+        "price": 844.8,
+        "customer_name": "Mary Wilson",
+        "id": "0bb6d015-8e15-4e73-a2a1-b649ba15df76",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 2,
+        "price": 143.73,
+        "customer_name": "Jessica Moore",
+        "id": "bf192296-acea-4305-a696-6e57fcf64e8b",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 3,
+        "price": 275.02,
+        "customer_name": "Karen Martinez",
+        "id": "bb701d8d-dde3-4445-9deb-8af3ae201464",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 4,
+        "price": 665.93,
+        "customer_name": "Elizabeth Thomas",
+        "id": "919b4d30-10a2-4fa8-aac3-99e601f11ac7",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 2,
+        "price": 869.41,
+        "customer_name": "Karen Smith",
+        "id": "42938a59-e611-4212-b2dc-4d305bb657c5",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 306.79,
+        "customer_name": "Susan Davis",
+        "id": "41da7c3b-e28b-4dfc-9209-aa84b5250036",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 1,
+        "price": 113.14,
+        "customer_name": "Sarah Miller",
+        "id": "49815b9c-a07c-45f7-bd4f-91e6329bf2aa",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 2,
+        "price": 581.21,
+        "customer_name": "Charles Thompson",
+        "id": "dfe8c4f5-2afb-4c82-9057-04c6a057b508",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 1,
+        "price": 205.04,
+        "customer_name": "Jessica Taylor",
+        "id": "4fece84b-585a-4e8e-b4b4-d73b29c32060",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 2,
+        "price": 489.53,
+        "customer_name": "Mary Williams",
+        "id": "05fc44a5-9102-4491-8468-35ecbb9cf3d7",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 5,
+        "price": 99.0,
+        "customer_name": "Robert Jackson",
+        "id": "3b42436d-1ada-4a4f-bd8b-cb01d294d6e9",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 4,
+        "price": 658.24,
+        "customer_name": "Mary Taylor",
+        "id": "50a855e8-c415-422f-add8-ebe1f220f62b",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 1,
+        "price": 593.6,
+        "customer_name": "James Thompson",
+        "id": "d5af81de-1721-4f36-8b7c-9909e783b9c3",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 1,
+        "price": 376.34,
+        "customer_name": "Jessica Thomas",
+        "id": "3455903c-11a1-4077-b521-4b4e41004ef1",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 2,
+        "price": 869.12,
+        "customer_name": "Jennifer Martinez",
+        "id": "4561e848-b3c0-4144-84ea-243a70b22594",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 431.04,
+        "customer_name": "Patricia Taylor",
+        "id": "08cf8957-4c79-4b95-b4a9-a451f66ac8f4",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 2,
+        "price": 612.2,
+        "customer_name": "Sarah Jones",
+        "id": "82bbc501-e8f7-4574-9ebe-83d38faf1896",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 4,
+        "price": 167.5,
+        "customer_name": "Thomas White",
+        "id": "df6d1c4e-1786-4146-b7eb-8b3b5c4a2198",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 4,
+        "price": 104.59,
+        "customer_name": "Susan Thomas",
+        "id": "402eb271-09de-47cb-b66b-6d0260e9346e",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 4,
+        "price": 521.7,
+        "customer_name": "Thomas White",
+        "id": "db7f7b77-07fc-439c-9231-15c6c88e15dd",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 753.36,
+        "customer_name": "Joseph Thompson",
+        "id": "9d6fc8fa-2bd8-48b9-a3e4-d7c3de53db10",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 2,
+        "price": 372.09,
+        "customer_name": "Mary Jackson",
+        "id": "a5f8f083-1fed-4105-a1bd-8605ba7dd2ee",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Tablet",
+        "quantity": 1,
+        "price": 395.53,
+        "customer_name": "Linda Miller",
+        "id": "dd0d3eca-bb5e-4f39-b070-0ef8c7102b56",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Keyboard",
+        "quantity": 1,
+        "price": 135.14,
+        "customer_name": "Robert Martinez",
+        "id": "d00c74b5-98a3-459b-890e-22526d9914d0",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 4,
+        "price": 543.38,
+        "customer_name": "Thomas Garcia",
+        "id": "c7579559-c3d6-46a1-b825-5e5c7fe69626",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 132.7,
+        "customer_name": "Linda Miller",
+        "id": "96b74131-9525-4677-9f0d-30cbb1f1643e",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 3,
+        "price": 185.19,
+        "customer_name": "Joseph Brown",
+        "id": "5f1844fd-fb7a-4592-af83-e815a8ff1bb0",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Smartphone",
+        "quantity": 1,
+        "price": 580.1,
+        "customer_name": "Jennifer Moore",
+        "id": "9b9e1f14-5fed-4dc4-83b5-b9e73eee20e8",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 5,
+        "price": 775.77,
+        "customer_name": "Barbara Smith",
+        "id": "0f6e2ec8-4b65-4c0e-8989-ef7a9aa2fbe3",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 3,
+        "price": 714.78,
+        "customer_name": "James Jones",
+        "id": "8e48935c-8282-4cf1-8b01-2c30e75efe1f",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 2,
+        "price": 543.14,
+        "customer_name": "Michael Robinson",
+        "id": "b8848cbd-0094-4c40-92ad-e132e56e1fcd",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Speaker",
+        "quantity": 2,
+        "price": 664.94,
+        "customer_name": "Robert Taylor",
+        "id": "967a3ff1-bed2-471f-b0fd-64a612f88e3e",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "id": "838b0898-fce6-45af-b627-6c44d2be106b",
+        "date": "2025-08-01 04:09:35"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-05 04:09:35",
+        "id": "75b96eee-cbd3-4501-a915-da0ad32d491d"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-05 04:09:35",
+        "id": "d7bb266a-d215-4a39-b5f9-342d11f6a42c"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-05 04:09:35",
+        "id": "9618ccfc-0144-45eb-bded-66fb904924c5"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "id": "f8627100-2600-4ca2-8db3-a562b45310b8",
+        "date": "2025-08-01 04:10:25"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-05 04:09:35",
+        "id": "398d78f3-6f3f-4a0a-acaf-d4fa3c9fb3cb"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-02 04:09:35",
+        "id": "777aebdd-0c20-495f-ba92-0e8f506f2132"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-02 04:09:35",
+        "id": "91942327-983a-4eb8-a4c2-4e2d6acaef6d"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-02 04:09:35",
+        "id": "767d9ec7-3de4-4055-be6c-2492b77ad4c2"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-04 04:09:35",
+        "id": "8b83d467-8f7b-4595-9de7-897b372f1910"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 51.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-04 04:09:35",
+        "id": "6dc8a147-ea4b-4c69-9930-debdfd233c1e"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 5551.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-04 04:09:35",
+        "id": "5a352ab3-fbb2-40d1-bdf6-fe238d1cf3ce"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 5551.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-05 04:09:35",
+        "id": "d5e127b1-8500-4702-8611-ca774d5ed489"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 5551.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-06 04:09:35",
+        "id": "dad79006-f06e-4850-812c-89fe7beb598a"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 5551.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-07 04:09:35",
+        "id": "15a89ff4-a834-4318-a171-54c3d2b93df6"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 5551.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-08 04:09:35",
+        "id": "755fb9c8-7a7d-42f7-81cf-276973ba195f"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 5551.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-09 04:09:35",
+        "id": "7336ee3a-a157-4e5b-889a-710b096d9f09"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 5551.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-10 04:09:35",
+        "id": "8c41e166-5235-4d9b-a141-ffed1ed5ffb7"
+    },
+    {
+        "item": "Camera",
+        "quantity": 5,
+        "price": 5551.02,
+        "customer_name": "Mary Wilson",
+        "date": "2025-08-10 04:09:35",
+        "id": "5fc87acc-0479-43d0-a24d-a771bf98c016"
     }
 ]

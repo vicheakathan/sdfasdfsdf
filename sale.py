@@ -4,10 +4,19 @@ import uuid
 import json
 from functools import wraps
 from login import token_required
+from plyer import notification
+import time
 
 sale_bp = Blueprint('sale', __name__)
 
 SALES_FILE = "sales.json"
+
+def send_basic_notification():
+    notification.notify(
+        title='Hello from Python!',
+        message='This is a simple notification sent from a Python script.',
+        app_name='Python Notifier'
+    )
 
 @sale_bp.route('/sales', methods=['GET'])
 @token_required
@@ -64,7 +73,9 @@ def add_sale_transaction():
 
     for item in data:
         item['id'] = str(uuid.uuid4())
-        item['date'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+        if not item.get('date'):
+            item['date'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
         sales.append(item)
 
@@ -75,6 +86,8 @@ def add_sale_transaction():
         return jsonify([])
     except Exception as e:
         return jsonify({'error' : f"Error loading sales from file: {e}"})
+    
+    send_basic_notification()
 
     return jsonify({
         'status' : True,
