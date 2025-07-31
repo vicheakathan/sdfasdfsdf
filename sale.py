@@ -12,6 +12,10 @@ SALES_FILE = "sales.json"
 @sale_bp.route('/sales', methods=['GET'])
 @token_required
 def get_all_sale_transaction():
+    start_date = request.args.get('start_date')
+    end_date = request.args.get('end_date')
+    customer = request.args.get('customer')
+
     try:
         with open(SALES_FILE, 'r') as f:
             sales = json.load(f)
@@ -19,8 +23,33 @@ def get_all_sale_transaction():
         return jsonify([])
     except Exception as e:
         return jsonify({'error' : f"Error loading sales from file: {e}"})
+    
+    if not start_date and not end_date and not customer:
+        return jsonify({'data': sales}), 200
+    
+    filtered_sales = []
+    
+    if customer:
+        for sale in sales:
+            if sale.get('customer_name', '').lower() == customer.lower():
+                filtered_sales.append(sale)
 
-    return jsonify({'data': sales}), 200
+    if start_date and end_date:
+        try:
+            start = datetime.strptime(start_date, "%Y-%m-%d") if start_date else datetime.min
+            end = datetime.strptime(end_date, "%Y-%m-%d") if end_date else datetime.max
+        except ValueError:
+            return jsonify({'error': 'Invalid date format. Use YYYY-MM-DD'}), 400
+        
+        for sale in sales:
+            try:
+                sale_date = datetime.strptime(sale['date'], "%Y-%m-%d %H:%M:%S")
+                if start <= sale_date <= end:
+                    filtered_sales.append(sale)
+            except ValueError:
+                continue
+        
+    return jsonify({'data': filtered_sales}), 200
 
 @sale_bp.route('/sales', methods=['POST'])
 @token_required
@@ -93,6 +122,13 @@ def delete_sale_transaction(id):
             sales = json.load(f)
     except Exception as e:
         sales = []
+
+    opt_delete = request.args.get('delete')
+    if opt_delete:
+        with open(SALES_FILE, 'w') as f:
+            json.dump([], f)
+
+        return jsonify({'status': 'All sales deleted'})
 
     original_length = len(sales)
     sales = [sale for sale in sales if sale.get('id') != id]
