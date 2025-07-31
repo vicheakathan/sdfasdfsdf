@@ -6,17 +6,28 @@ from functools import wraps
 from login import token_required
 from plyer import notification
 import time
+import requests
+import os
 
 sale_bp = Blueprint('sale', __name__)
 
 SALES_FILE = "sales.json"
 
-def send_basic_notification():
-    notification.notify(
-        title='Hello from Python!',
-        message='This is a simple notification sent from a Python script.',
-        app_name='Python Notifier'
-    )
+def send_slack_notification(message: str, webhook_url: str):
+    slack_data = {
+        "text": f"Web Service Notification: {message}"
+    }
+
+    try:
+        response = requests.post(
+            webhook_url,
+            data=json.dumps(slack_data),
+            headers={'Content-Type': 'application/json'}
+        )
+        response.raise_for_status()
+        print("Successfully sent notification to Slack.")
+    except requests.exceptions.RequestException as e:
+        print(f"Failed to send notification to Slack. Error: {e}")
 
 @sale_bp.route('/sales', methods=['GET'])
 @token_required
@@ -87,7 +98,14 @@ def add_sale_transaction():
     except Exception as e:
         return jsonify({'error' : f"Error loading sales from file: {e}"})
     
-    send_basic_notification()
+    # slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL", "YOUR_SLACK_WEBHOOK_URL_HERE")
+    slack_webhook_url = "https://hooks.slack.com/services/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"
+
+    if slack_webhook_url == "YOUR_SLACK_WEBHOOK_URL_HERE":
+        print("Please replace 'YOUR_SLACK_WEBHOOK_URL_HERE' with your actual Slack webhook URL.")
+    else:
+        notification_message = "A new user has signed up for the service!"
+        send_slack_notification(notification_message, slack_webhook_url)
 
     return jsonify({
         'status' : True,
