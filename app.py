@@ -71,8 +71,8 @@ if __name__ == "__main__":
 
 # Instructions to run this code:
 # 1. Ensure you have Python installed.
-# 2. Install Flask: `pip install Flask`
-# 3. Install the desktop notification library: `pip install notify-py`
+# 2. Create a `requirements.txt` file with the contents from the other Canvas.
+# 3. Install the dependencies: `pip install -r requirements.txt`.
 # 4. Save this code as `app.py`.
 # 5. Open your terminal and run: `python app.py`
 # 6. Use a tool like `curl` or Postman to send a POST request to `http://127.0.0.1:5000/api/sale`.
