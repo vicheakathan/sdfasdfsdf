@@ -4,7 +4,6 @@ import uuid
 import json
 from functools import wraps
 from login import token_required
-from plyer import notification
 import time
 import requests
 import os
@@ -99,7 +98,8 @@ def add_sale_transaction():
         return jsonify({'error' : f"Error loading sales from file: {e}"})
     
     # slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL", "YOUR_SLACK_WEBHOOK_URL_HERE")
-    slack_webhook_url = "https://hooks.slack.com/services/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"
+    # slack_webhook_url = "https://hooks.slack.com/services/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"
+    slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL")
 
     if slack_webhook_url == "YOUR_SLACK_WEBHOOK_URL_HERE":
         print("Please replace 'YOUR_SLACK_WEBHOOK_URL_HERE' with your actual Slack webhook URL.")
