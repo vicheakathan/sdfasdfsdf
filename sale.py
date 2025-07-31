@@ -98,8 +98,8 @@ def add_sale_transaction():
         return jsonify({'error' : f"Error loading sales from file: {e}"})
     
     # slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL", "YOUR_SLACK_WEBHOOK_URL_HERE")
-    # slack_webhook_url = "https://hooks.slack.com/services/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"
-    slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL")
+    slack_webhook_url = "https://hooks.slack.com/services/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"
+    # slack_webhook_url = os.environ.get("SLACK_WEBHOOK_URL")
 
     if slack_webhook_url == "YOUR_SLACK_WEBHOOK_URL_HERE":
         print("Please replace 'YOUR_SLACK_WEBHOOK_URL_HERE' with your actual Slack webhook URL.")
